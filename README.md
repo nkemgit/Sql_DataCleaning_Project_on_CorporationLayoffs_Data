@@ -1,4 +1,4 @@
-Data Cleaning and Exploration for Layoffs Data Analysis using MySQL
+##Data Cleaning and Exploration for Layoffs Data Analysis using MySQL##
 
 This project showcases my proficiency in data cleaning and preparation for analysis using MySQL. The raw layoffs dataset, sourced from big_corporations.layoffs_data, was rigorously transformed to ensure high data quality and integrity. Key tasks performed included:
 
